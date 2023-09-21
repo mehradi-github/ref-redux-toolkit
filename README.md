@@ -6,7 +6,7 @@
 # Install
 
 ```sh
-pnpm create react-app ref-redux-toolkit
+pnpm create react-app ref-redux-toolkit --template typescript
 pnpm add react-router-dom react-redux @reduxjs/toolkit mdb-react-ui-kit @fortawesome/fontawesome-free
 
 
