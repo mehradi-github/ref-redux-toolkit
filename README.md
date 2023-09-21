@@ -7,7 +7,7 @@
 
 ```sh
 pnpm create react-app ref-redux-toolkit
-pnpm add react-router-dom react-redux @reduxjs/toolkit
+pnpm add react-router-dom react-redux @reduxjs/toolkit mdb-react-ui-kit @fortawesome/fontawesome-free
 
 
 ```
